@@ -1,0 +1,12 @@
+body{
+    background-color: rgba(47, 47, 47, 0.483);
+    font-family: Helvetica, sans-serif;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    object-fit: cover;
+}
